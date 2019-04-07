@@ -1,4 +1,4 @@
-# render_remainders
+# render_reminders
 Basic Telegram Bot, to send reminders messages .
 
 And Basic configuration for first telegram with python by Dzaky Widya Putra:
